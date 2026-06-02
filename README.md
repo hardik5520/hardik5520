@@ -82,15 +82,6 @@ I ship agents, fine-tune models, optimize inference, and architect scalable plat
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardik5520&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik5520&layout=compact&theme=dark&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 📜 Certifications
 
 - Microsoft Certified Azure Fundamentals (AZ-900)
